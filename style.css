@@ -24,7 +24,9 @@ header h1 {
 
 header p {
     margin-top: 10px;
-    color: #cbd5e1
+    color: #cbd5e1;
+}
+
 nav {
     background: #111827;
     text-align: center;
